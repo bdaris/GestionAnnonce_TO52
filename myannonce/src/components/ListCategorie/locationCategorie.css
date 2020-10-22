@@ -1,0 +1,10 @@
+.listAnnonce{
+    margin-top: 50px;
+    height: 100%;
+}
+
+.rechercheLocation{
+    display: flex;
+    margin-top:8rem;
+    margin-left: 22rem;
+}
