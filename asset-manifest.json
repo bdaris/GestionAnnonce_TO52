@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/GestionAnnonce_TO52/static/css/main.ec4961d4.chunk.css",
+    "main.js": "/GestionAnnonce_TO52/static/js/main.44fe6acc.chunk.js",
+    "main.js.map": "/GestionAnnonce_TO52/static/js/main.44fe6acc.chunk.js.map",
+    "runtime-main.js": "/GestionAnnonce_TO52/static/js/runtime-main.72eb2586.js",
+    "runtime-main.js.map": "/GestionAnnonce_TO52/static/js/runtime-main.72eb2586.js.map",
+    "static/css/2.f0d63031.chunk.css": "/GestionAnnonce_TO52/static/css/2.f0d63031.chunk.css",
+    "static/js/2.5c6207c5.chunk.js": "/GestionAnnonce_TO52/static/js/2.5c6207c5.chunk.js",
+    "static/js/2.5c6207c5.chunk.js.map": "/GestionAnnonce_TO52/static/js/2.5c6207c5.chunk.js.map",
+    "index.html": "/GestionAnnonce_TO52/index.html",
+    "precache-manifest.56e976fe29d36baeed698914933924f0.js": "/GestionAnnonce_TO52/precache-manifest.56e976fe29d36baeed698914933924f0.js",
+    "service-worker.js": "/GestionAnnonce_TO52/service-worker.js",
+    "static/css/2.f0d63031.chunk.css.map": "/GestionAnnonce_TO52/static/css/2.f0d63031.chunk.css.map",
+    "static/css/main.ec4961d4.chunk.css.map": "/GestionAnnonce_TO52/static/css/main.ec4961d4.chunk.css.map",
+    "static/js/2.5c6207c5.chunk.js.LICENSE.txt": "/GestionAnnonce_TO52/static/js/2.5c6207c5.chunk.js.LICENSE.txt",
+    "static/media/covoiturage.jpg": "/GestionAnnonce_TO52/static/media/covoiturage.c0a2b994.jpg",
+    "static/media/emploie.jpg": "/GestionAnnonce_TO52/static/media/emploie.969b3f99.jpg",
+    "static/media/evènement.jpg": "/GestionAnnonce_TO52/static/media/evènement.3ab12544.jpg",
+    "static/media/location.jpg": "/GestionAnnonce_TO52/static/media/location.c575e0e9.jpg",
+    "static/media/stage.jpg": "/GestionAnnonce_TO52/static/media/stage.7f7defe9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72eb2586.js",
+    "static/css/2.f0d63031.chunk.css",
+    "static/js/2.5c6207c5.chunk.js",
+    "static/css/main.ec4961d4.chunk.css",
+    "static/js/main.44fe6acc.chunk.js"
+  ]
+}
