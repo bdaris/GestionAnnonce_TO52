@@ -19,7 +19,7 @@ class App extends Component {
             <Menu />
           </div>
           <Switch>
-            <Route exact path="/GestionAnnonce_TO52" component={MainContainer}/>
+            <Route exact path="/https://bdaris.github.io/GestionAnnonce_TO52" component={MainContainer}/>
             <Route path="/connexion" component={Connexion}/>
             <Route path="/location" component={LocationCategorie} />
             <Route path="/createannonce" component={CreateAnnonce} />
